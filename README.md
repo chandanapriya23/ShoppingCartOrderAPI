@@ -1,5 +1,8 @@
-# Order API Challenge
-  Design and build an api that can calculate the results of an order. Use the defined schemas and payloads provided below to meet the requirements of this  challenge.
+# App Overview
+
+Shopping Cart API by Express Framework (Javascript)
+ 
+Design and build an api that can calculate the results of an order. Used the defined schemas and payloads provided to meet the requirements.
 
 # Order Schema
 The order schema is defined in the orders_api.yml file in this directory. This follows the Open Api Specification if you are not familiar with it, please take a moment to familiarize with this tool
@@ -30,10 +33,6 @@ All returns of an order from the api should have a correctly calculated total of
   You can use any datastore that you want.
   Discounts can stack (more than 1 for the order or any line item)
   An order total should never go below 0
-
-# App Overview
-
-Shopping Cart API by Express Framework (Javascript)
 
 # Setup
 
